@@ -16,7 +16,6 @@ body{
 
 .body-content{
   display:flex;
-  margin: 5rem;
   padding: 0px;
   margin-top: 5rem;
   justify-content: space-between;
@@ -83,4 +82,6 @@ footer{
   border: solid .25rem var(--border-color);
   background-color: var(--background-blue);
   height: 15rem;
+  margin: 0px;
+  padding: 0px;
 }
